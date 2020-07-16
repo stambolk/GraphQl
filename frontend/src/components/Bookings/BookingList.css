@@ -1,0 +1,19 @@
+/* 
+.booking-item-data
+.booking-actions */
+
+.bookings{
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 40rem;
+    max-width: 90%;
+}
+.booking-item{
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border: 1px solid blueviolet;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

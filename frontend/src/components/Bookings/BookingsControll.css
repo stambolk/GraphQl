@@ -1,0 +1,9 @@
+.bookings-controll{
+   margin: 6rem 0rem 2rem 0rem;
+   text-align: center;
+   cursor: pointer;
+}
+
+.bookings-controll.active{
+    border: 10px solid black;
+}

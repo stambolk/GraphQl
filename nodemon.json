@@ -1,0 +1,9 @@
+{
+
+    "env": {
+        "MONGO_USER" : "dev",
+        "MONGO_PASSWORD": "dev1234",
+        "MONGO_DB": "eventApp-2",
+        "MONGO_HOST": "cluster0-rx2ck.mongodb.net"
+    }
+}
